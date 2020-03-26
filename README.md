@@ -4,4 +4,4 @@
 
 ### 使用
 
-在 [Subscription Converter](https://api.nameless13.com/) 里的远程配置中填入 main.ini 文件地址
+在 [Subscription Converter](https://api.nameless13.com/) 里的远程配置中填入 [main.ini](https://github.com/BlackHole1/maying-rules/raw/master/main.ini) 文件地址
